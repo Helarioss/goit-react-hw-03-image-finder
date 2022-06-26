@@ -74,7 +74,7 @@ export class App extends Component {
             Load more
           </LoadButton>
         )}
-        {/* <Modal /> */}
+        <Modal />
       </Container>
     );
   }
