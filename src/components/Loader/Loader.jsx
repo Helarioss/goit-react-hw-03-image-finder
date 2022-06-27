@@ -1,4 +1,3 @@
-import { SpinnerContainer } from 'components/App/App.styled';
 import { TailSpin } from 'react-loader-spinner';
 import { Container } from './Loader.styled';
 
